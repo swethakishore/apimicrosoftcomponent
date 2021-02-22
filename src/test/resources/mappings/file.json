@@ -1,0 +1,10 @@
+{
+	"request": {
+		"urlPattern": "/person/p1",
+		"method": "GET"
+	},
+	"response": {
+		"status": 200,
+		"body": "CorrectPerson"
+	}
+}

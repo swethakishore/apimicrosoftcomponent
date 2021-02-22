@@ -1,0 +1,27 @@
+{
+	"mappings": [{
+			"request": {
+				"urlPattern": "/user/one",
+				"method": "GET"
+			},
+			"response": {
+				"status": 200,
+				"jsonBody": {
+					"id": "154654312464646"
+				}
+			}
+		},
+		{
+			"request": {
+				"urlPattern": "/user/two",
+				"method": "GET"
+			},
+			"response": {
+				"status": 200,
+				"jsonBody": {
+					"id": "1548451256412541290000"
+				}
+			}
+		}
+	]
+}
